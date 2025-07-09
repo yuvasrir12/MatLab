@@ -17,9 +17,9 @@ This MATLAB Live Script (`myfit.mlx`) analyzes fitness tracker data. It demonstr
 
 - `myfit.mlx`: Main Live Script with step-by-step analysis, code, output, and visualizations
 - `walk.mat`: Sample data of walking
-- 'sit.mat` : Sample data of sitting
-- 'run.mat`: Sample data of running
-- 'downstairs.mat`: Sample data of walking downstairs
+- `sit.mat` : Sample data of sitting
+- `run.mat`: Sample data of running
+- `downstairs.mat`: Sample data of walking downstairs
 
 ## Sections Covered in Script
 
