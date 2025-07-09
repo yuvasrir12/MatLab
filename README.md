@@ -1,4 +1,4 @@
-# MatLab
+# MatLab Fitness tracker using ML techniques
 # 🏃‍♀️ Fitness Tracker: Step Counting, Visualization & Activity Classification
 
 ## Overview
