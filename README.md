@@ -42,7 +42,7 @@ This MATLAB Live Script (`myfit.mlx`) analyzes fitness tracker data. It demonstr
 
 - MATLAB R2018b or later
 - Live Editor support
-- `walk.mat` data file (from MathWorks examples or custom)
+- `walk.mat`..,etc data files provided 
 
 ### How to Run
 
